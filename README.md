@@ -4,9 +4,9 @@ In this repository, you can find the [official OpenThinking public feedback disc
 
 | **Feedback Category** | **Product** 	|
 |---	|---	|
-| 🎨 [Themes](https://github.com/github/feedback/discussions/categories/themes) 	| [Bullet](https://openthinking.net/themes/bullet/) |
-| 🦾 [Modules](https://github.com/github/feedback/discussions/categories/modules) 	| [Shopofy modules](https://openthinking.net/shopify-modules/) 	|
-| 🗣 [General Feedback](https://github.com/github/feedback/discussions/categories/general) 	| [Docs](https://docs.openthinking.net/) |
+| 🎨 [Themes](https://github.com/openxthinking/feedback/discussions/categories/themes) 	| [Bullet](https://openthinking.net/themes/bullet/) |
+| 🦾 [Modules](https://github.com/openxthinking/feedback/discussions/categories/modules) 	| [Shopofy modules](https://openthinking.net/shopify-modules/) 	|
+| 🗣 [General Feedback](https://github.com/openxthinking/feedback/discussions/categories/general) 	| [Docs](https://docs.openthinking.net/) |
 
 These discussions are where you can share suggestions for how the products should be improved and discuss those improvements.
 
